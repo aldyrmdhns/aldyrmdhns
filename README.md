@@ -5,7 +5,7 @@ Get to know me here :
 - Mail me at [aldyramadhans101@gmail.com](aldyramadhans101@gmail.com)
 - Connect to My [LinkedIn](https://www.linkedin.com/in/aldy-ramadhan-syahputra-4b84bb221/)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=dark&custom_title=GitHub%20Statistics) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=tokyonight&custom_title=GitHub%20Statistics) ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=tokyonight)
 
 
 
