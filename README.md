@@ -6,10 +6,10 @@ Get to know me here :
 - Connect to My [LinkedIn](https://www.linkedin.com/in/aldy-ramadhan-syahputra-4b84bb221/)
 
 ## My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourUsername&show_icons=true&theme=dark&custom_title=GitHub%20Statistics)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=dark&custom_title=GitHub%20Statistics)
 
 ## My Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YourUsername&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=dark)
 
 
 
