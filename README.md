@@ -10,13 +10,9 @@ Get to know me here :
 <table style="border: none">
   <tr>
     <td valign="top">
-      <!-- GitHub Statistics -->
-      <h3>My GitHub Statistics</h3>
       <img src="https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=tokyonight&custom_title=GitHub%20Statistics" alt="GitHub Stats">
     </td>
     <td valign="top">
-      <!-- Programming Languages -->
-      <h3>My Programming Languages</h3>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=tokyonight" alt="Top Languages">
     </td>
   </tr>
