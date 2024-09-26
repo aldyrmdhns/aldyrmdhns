@@ -2,7 +2,7 @@
 The name's Aldy, just a newbie developer who wants to get better. ^.^/
 
 Get to know me here :
-- Mail me at [aldyramadhans101@gmail.com](aldyramadhans101@gmail.com)
+- Mail me at [aldyramadhans101@gmail.com](mailto:aldyramadhans101@gmail.com)
 - Connect to My [LinkedIn](https://www.linkedin.com/in/aldy-ramadhan-syahputra-4b84bb221/)
 
 
