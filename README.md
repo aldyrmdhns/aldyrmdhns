@@ -4,10 +4,24 @@ The name's Aldy, just a newbie developer who wants to get better. ^.^/
 Get to know me here :
 - Mail me at [aldyramadhans101@gmail.com](aldyramadhans101@gmail.com)
 - Connect to My [LinkedIn](https://www.linkedin.com/in/aldy-ramadhan-syahputra-4b84bb221/)
-## My GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=dark&custom_title=GitHub%20Statistics)
-## My Programming Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=dark)
+
+# My GitHub Profile
+
+<table>
+  <tr>
+    <td valign="top">
+      <!-- GitHub Statistics -->
+      <h3>My GitHub Statistics</h3>
+      <img src="https://github-readme-stats.vercel.app/api?username=aldyrmdhns&show_icons=true&theme=dark&custom_title=GitHub%20Statistics" alt="GitHub Stats">
+    </td>
+    <td valign="top">
+      <!-- Programming Languages -->
+      <h3>My Programming Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aldyrmdhns&layout=compact&theme=dark" alt="Top Languages">
+    </td>
+  </tr>
+</table>
+
 
 
 <!--
