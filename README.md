@@ -7,7 +7,7 @@ Get to know me here :
 
 # My GitHub Profile
 
-<table border="0">
+<table border=0>
   <tr>
     <td valign="top">
       <!-- GitHub Statistics -->
